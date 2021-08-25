@@ -9,3 +9,4 @@ This is my 2nd commit on master branch
 This is my 4th commit on branch 1
 This is my 5th commit on branch 1
 This is my 6th commit on branch 1
+This is my 7th commit on branch 1
